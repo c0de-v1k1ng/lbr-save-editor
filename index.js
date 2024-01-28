@@ -1,5 +1,10 @@
 const leaves = [
     {
+        name: "DLC",
+        id: "dlc",
+        img: "spr_resource_gem_0.png",
+    },
+    {
         name: "Gems",
         id: "gems",
         img: "spr_resource_gem_0.png",
